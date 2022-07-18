@@ -1,3 +1,9 @@
+
+#friends-screen .status-bar,
+#friends-screen .screen-header{
+    background-color: white;
+}
+
 .test {
     padding-top: 100px;
 }
