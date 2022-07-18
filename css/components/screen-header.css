@@ -11,6 +11,7 @@
     box-sizing: border-box;
     color: var(--brown);
     background-color: white;
+    z-index: 1;
 }
 
 .screen-header__title {

@@ -1,4 +1,8 @@
 
+.find-screen {
+    margin-bottom: 150px;
+}
+
 .setting-btn {
     position: relative;
 }
@@ -135,5 +139,16 @@
 
 .find-screen .icon-row__icon:hover i {
     color: var(--brown);
+}
+
+@media (max-width:400px) {
+    .open-post_photo img {
+        width: 90px;
+        height: 90px;
+    }
+    .open-post__column h5,
+    .open-post__column h6 {
+        font-size: 14px;
+    }
 }
 

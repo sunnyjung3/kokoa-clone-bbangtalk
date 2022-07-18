@@ -68,6 +68,10 @@
     animation-delay: 2s;
 }
 
+#splash-screen img {
+    width: 30px;
+}
+
 #splash-screen .bbang,
 #splash-screen .talk {
     display: flex;
