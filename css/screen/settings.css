@@ -1,0 +1,19 @@
+.settings-setting {
+    padding: 20px 0;
+    border-bottom: 1px solid var(--mint);
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.settings-setting i {
+    margin-right: 20px;
+    font-size: 22px;
+    opacity: 0.6;
+    color: var(--brown);
+}
+
+.settings-setting-column {
+    opacity: 0.9;
+}

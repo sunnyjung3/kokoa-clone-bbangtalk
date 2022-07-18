@@ -1,0 +1,10 @@
+:root {
+    --yellow: #fae100;
+    --grey: #8f8f8f;
+    --horizontal-space: 25px;
+    --main-border: 1px solid var(--mint);
+
+    /* custom */
+    --mint: #B3CB99;
+    --brown: #574220;
+}
