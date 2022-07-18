@@ -11,6 +11,10 @@
     font-size: 32px;
 }
 
+#friends-screen #no-mobile {
+    top: 0px;
+}
+
 @media (max-width:645px) {
    #no-mobile {
     display: none;
